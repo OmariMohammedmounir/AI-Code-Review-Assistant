@@ -20,7 +20,7 @@ When a developer opens a Pull Request (PR):
 
 **Example feedback:**
 
-```text
+
 ⚠ Potential SQL injection risk in UserController.php line 45
 ✔ Consider using prepared statements
 
